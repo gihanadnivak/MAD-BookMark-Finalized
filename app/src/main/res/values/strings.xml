@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Blogosphere</string>
+    <string name="Following">Following</string>
+    <string name="Story_title">Story Title</string>
+    <string name="Story_desc">Lorem Ipsum is simply dummy text of the printing and typesetting industry.</string>
+    <string name="Story_date">27 Jun</string>
+    <string name="Follower_name">Name</string>
+    <string name="txt_close">Close</string>
+    <string name="txt_Publish">Publish</string>
+    <string name="write_story">Write Your Story</string>
+    <string name="add_tags">Add tags</string>
+    <string name="edt_add_title">Add Title to the Article</string>
+    <string name="tag_name">Tag Name</string>
+    <string name="write_one_story">Write a story</string>
+    <string name="txt_create">Create</string>
+    <string name="write_story_desc">Blogosphere Stories are the easiest way to share your ideas with the world.</string>
+    <string name="sign_in">Sign In</string>
+    <string name="edt_Email">Email</string>
+    <string name="edt_Password">Password</string>
+    <string name="edt_Confirm_Password">Confirm Password</string>
+    <string name="not_register">Not registered yet</string>
+    <string name="sign_up_here">Sign Up here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="already_register">Already registered</string>
+    <string name="sign_in_here">Sign In here</string>
+    <string name="search_placeholder">Search for stories,authors and tags</string>
+    <string name="explore_topics_title">Explore topics</string>
+    <string name="explore_topics">Explore Topic Name</string>
+    <string name="check_story_empty">You need to write something before publishing.</string>
+    <string name="add_Image">Add Title Image</string>
+    <string name="txt_save_article">Save</string>
+    <string name="txtparaHome">From now you could be easily access into unlimited premium articles and unlock your fountain of knowledge</string>
+
+    // HASITH
+    <string name="header_name">Your Profile</string>
+    <string name="user_name">Aaron Caleb</string>
+    <string name="view_profile">Edit your profile</string>
+    <string name="flowing">0 Following</string>
+    <string name="flowers">0 Followers</string>
+    <string name="list">List</string>
+    <string name="post">Write Your First Story</string>
+    <string name="textinfo">We d love to hear what you are thinking.</string>
+    <string name="btn1_text">Publish Your Story</string>
+    <string name="heading2">Edit Your Profile</string>
+    <string name="choose_image">Choose an image</string>
+    <string name="form_name">Name</string>
+    <string name="form_email">Email</string>
+    <string name="about_you">About You</string>
+    <string name="hint_name">Your Name</string>
+    <string name="hint_email">Your Email</string>
+    <string name="hint_about">Enter a short bio </string>
+    <string name="btn_update">Update </string>
+    <string name="btn_delete">Delete </string>
+    <string name="btn_save">Save </string>
+    <string name="story_publish">Publish Your Story </string>
+    <string name="title_activity_linaer">linaer</string>
+    <string name="other_user">Aaron Caleb</string>
+    <string name="user_bio">Once you have a great professional biography, you can put it on your
+        website, social media accounts, or even a future book jacket.</string>
+    <string name="btn_userfollow">Follow</string>
+
+
+    // GIHAN
+    <string name="tv_top1">Reading List</string>
+    <string name="tv_top2">"Create a list to easily collect stories "</string>
+    <string name="btn_startnow">Start Now</string>
+    <string name="tv_countstories1">6 stories</string>
+    <string name="tv_date1">date</string>
+    <!-- viewdwd list -->
+    <string name="tv_top6">Buy these products in future</string>
+    <string name="tv_topstorycount">0 Stories</string>
+    <string name="tv_topdate1">2020/08/12</string>
+    <string name="btn_deletelist">Delete list</string>
+    <string name="btn_editlist">Edit List</string>
+    <string name="btn_sharelist">Share List</string>
+    <string name="tv_author1">Author</string>
+    <string name="tv_date2">date</string>
+    <string name="tv_storytopic1">story topic</string>
+    <!-- update list -->
+    <string name="tv_top3">Edit List</string>
+    <string name="tv_editlistTop1">Edit text here</string>
+    <string name="btn_editListUpdate">Update</string>
+    <string name="chec_SelectedStories">Story</string>
+    <string name="tv_author3">Author</string>
+    <string name="tv_date3">date</string>
+    <string name="tv_storytopic3">Story Topic</string>
+    <!-- create list-->
+    <string name="tv_top5">Create LIst</string>
+    <string name="tv_EnterTopic">Enter Topic</string>
+    <string name="tv_EnterDiscription">Enter Description</string>
+    <string name="btn_create">Create List</string>
+    <string name="tv_selectListToAdd">Select a List to add</string>
+    <string name="checkBox1">Reading List</string>
+    <string name="checkBox2">Buy these products in future</string>
+    <string name="checkBox3">Story Time</string>
+    <string name="checkBox4">Recipies</string>
+    <string name="checkBox5">My favourites</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="tv_top7">save your favourites to read later</string>
+    <string name="tv_editTopicLable">Enter new Topic</string>
+    <string name="tv_editdiscriptionLable">Enter new description</string>
+    <string name="test">hello</string>
+    <string name="editText_EnterTopic">Enter topic here</string>
+    <string name="editText_EnterDescription">Enter Description Here</string>
+    <string name="et_EditTextHere">Edit text here</string>
+    <string name="btn_bookmark01">mookmark 1</string>
+
+    // BUDDHEESHA
+    <string name="response_title">Responses</string>
+    <string name="update_comment_btn">Update</string>
+    <string name="addBtn">add</string>
+
+</resources>

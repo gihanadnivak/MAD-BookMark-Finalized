@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/border.xml" value="0.3703125" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/border_corner.xml" value="0.14351851851851852" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2682291666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.3703125" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.3703125" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.3703125" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/ic_bookmarks.xml" value="0.3703125" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/ic_comment.xml" value="0.3703125" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/ic_outline_bookmark_border_24.xml" value="0.3703125" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/ic_outline_comment_24.xml" value="0.3703125" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/ic_outline_format_bold_24.xml" value="0.3703125" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/ic_outline_image_24.xml" value="0.3703125" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/ic_person.xml" value="0.3703125" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/drawable/selector.xml" value="0.21944444444444444" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_add_comment.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_bookmarks.xml" value="0.33" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_create_article.xml" value="0.3175925925925926" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_create_new_list.xml" value="0.33" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_edit_article.xml" value="0.34010416666666665" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_edit_section.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_first_view.xml" value="0.25" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_login.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_main.xml" value="0.34010416666666665" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_new_edit_list.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_new_viewed_list.xml" value="0.33" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_other_profile_view.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_otherprofile_section.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_profile.xml" value="0.33" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_register.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_search.xml" value="0.33" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_update_user.xml" value="0.34010416666666665" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_view_blog_post.xml" value="0.33" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_view_comment.xml" value="0.33" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/activity_write_story.xml" value="0.33" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/add_name_image_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/add_tags_bottom_sheet.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/add_tags_dialog.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/following_list_item.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/post_structure.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/raw.xml" value="0.33" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/rowreadinglists.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/rowviewedlist.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/search_one_tagname.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/single_article_row.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/single_row.xml" value="0.2520833333333333" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/layout/single_tag.xml" value="0.3541666666666667" />
+        <entry key="..\:/Users/Hashan/AndroidStudioProjects/Blogosphere/app/src/main/res/menu/menu_navigation.xml" value="0.2833333333333333" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/FinalAttemp/app/src/main/res/drawable/ic_baseline_bookmark_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/FinalAttemp/app/src/main/res/drawable/ic_outline_bookmark_border_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/FinalAttemp/app/src/main/res/layout/activity_create_new_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/FinalAttemp/app/src/main/res/layout/activity_new_edit_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/LEGION/AndroidStudioProjects/FinalAttemp/app/src/main/res/layout/rowviewedlist.xml" value="0.536" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
